@@ -194,26 +194,6 @@ Automating development workflows, QA processes, end-to-end testing and code qual
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=nac13k&show_icons=true&theme=transparent&hide_border=true"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nac13k&layout=compact&theme=transparent&hide_border=true"
-    alt="Top languages"
-  />
-</p>
-
----
-
 ## 💬 Ask me about
 
 **Ruby on Rails · Go · PostgreSQL · React · TypeScript · AWS · GCP · APIs · Distributed Systems · Observability · Developer Tooling · AI-assisted Development**
